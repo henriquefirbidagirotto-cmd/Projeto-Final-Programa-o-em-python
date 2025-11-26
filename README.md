@@ -28,3 +28,4 @@ Bibliotecas
 
 ## Autores:
 Henrique Girotto
+<a href="#"><img src="https://github.com/henriquefirbidagirotto-cmd/Projeto-Final-Programa-o-em-python/blob/main/pf.png" alt="A cute orange cat lying on its back."></a>
